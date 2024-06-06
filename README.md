@@ -1,3 +1,13 @@
+Functionalities:
+List tasks
+Add new task
+Remove task
+Confirm before remove task
+Filter task
+Empty list component 
+Mark as done task
+
+
 Techs used:
 Reacat Native with Expo
 Hooks  (useState)
